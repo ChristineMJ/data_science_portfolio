@@ -7,6 +7,10 @@
 * Stakeholders for this project: Mr.Moreno who is a marketing director and has directed the clear goal of this project. Converting casual riders into annual members based on an analysis from the users' historial data. 
 
 ![Percentage for all bike riders](https://github.com/ChristineMJ/data_science_portfolio/blob/Data_Portfolio/images/piechart.jpeg)
+![Classic or Electric Bikes](https://github.com/ChristineMJ/data_science_portfolio/blob/Data_Portfolio/images/rideable_type.jpeg)
+![Median Ride Lengths](https://github.com/ChristineMJ/data_science_portfolio/blob/Data_Portfolio/images/Median_ride_length.jpeg)
+![Most Popular Days for Riding](https://github.com/ChristineMJ/data_science_portfolio/blob/Data_Portfolio/images/Total_rides_by_week.jpeg)
+![Monthly Trend](https://github.com/ChristineMJ/data_science_portfolio/blob/Data_Portfolio/images/monthly_rides.jpeg)
 
 Key Findings & Insights
 - Throughout the year over 2022 the casual bike riders rode bikes on Sundays, Saturdays, Mondays and Fridays whereas the members rode bikes all over the weeks. The Wednesdays, Tuesdays and Mondays were the most popular days for bike-riding for the members.    
