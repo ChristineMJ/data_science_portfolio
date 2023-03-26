@@ -6,7 +6,7 @@
 * Types of riders: Casual riders: Casual riders are single-ride passes or full-day passes vs Membership riders are one off bike riders basically.
 * Stakeholders for this project: Mr.Moreno who is a marketing director and has directed the clear goal of this project. Converting casual riders into annual members based on an analysis from the users' historial data. 
 
-![](https://github.com/ChristineMJ/data_Science_portfolio/images/piechart.jpeg
+![](https://github.com/ChristineMJ/data_Science_portfolio/images/piechart.jpeg)
 ![] 
 
 #[Project 2. Share comparison dashboard in Python Streamlit](https://github.com/ChristineMJ/share_comparison_dashboard.git) 
