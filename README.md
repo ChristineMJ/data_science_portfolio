@@ -8,5 +8,12 @@
 
 ![Percentage for all bike riders](https://github.com/ChristineMJ/data_science_portfolio/blob/Data_Portfolio/images/piechart.jpeg)
 
+Key Findings & Insights
+- Throughout the year over 2022 the casual bike riders rode bikes on Sundays, Saturdays, Mondays and Fridays whereas the members rode bikes all over the weeks. The Wednesdays, Tuesdays and Mondays were the most popular days for bike-riding for the members.    
+
+Suggestions
+- The analytics shows that the members rides bikes during the weedays for shorter distance than the casual riders. If the fee for the one off casual riders increases and additional charges on the longer distance or longer ride lenths is reduced for the members, it will encourage the casual riders to join the membership. 
+- The casual riders rodes from the Friday till Monday. They company can advertise the benefit of joining bike membership over the weekend. 
+
 #[Project 2. Share comparison dashboard in Python Streamlit](https://github.com/ChristineMJ/share_comparison_dashboard.git) 
 
