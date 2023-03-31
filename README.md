@@ -19,6 +19,6 @@ Suggestions
 - The analytics shows that the members rides bikes during the weedays for shorter distance than the casual riders. If the fee for the one off casual riders increases and additional charges on the longer distance or longer ride lenths is reduced for the members, it will encourage the casual riders to join the membership. 
 - The casual riders rodes from the Friday till Monday. They company can advertise the benefit of joining bike membership over the weekend. 
 
-#[Project 2.] Share comparison dashboard in Python Streamlit](https://github.com/ChristineMJ/share_comparison_dashboard.git) 
+#[Project 2. Share comparison dashboard in Python Streamlit](https://github.com/ChristineMJ/share_comparison_dashboard.git) 
 
-#[Project 3.] Cyber Attack Analysis(https://github.com/ChristineMJ/world_cyber_attack_analysis.git)
+#[Project 3. Cyber Attack Analysis](https://github.com/ChristineMJ/world_cyber_attack_analysis.git)
