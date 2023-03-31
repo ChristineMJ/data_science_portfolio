@@ -25,19 +25,19 @@ Suggestions
 Purpose of this Anaylsis: 
 Analyzing cyber attacks worldwide is crucial for improving cybersecurity awareness, developing effective security measures, improving incident response, prosecuting cyber criminals, and promoting global cooperation to protect against cyber threats.
 
-![10 Actors](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10actor.jpeg)
-
 There can be several reasons why these countries had a higher number of cyber attacks:
-
+![TopValue](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/topvalue.jpeg)
 Advanced technology: Countries that have more advanced technology may be more vulnerable to cyber attacks. This is because more advanced technology usually means more interconnected systems and more potential vulnerabilities.
 
-Political instability: Countries with political instability or conflicts may be more prone to cyber attacks, especially if the attackers have political motives.
+- Political instability: Countries with political instability or conflicts may be more prone to cyber attacks, especially if the attackers have political motives.
 
-Economic factors: Countries with a high GDP and high economic activity may be more attractive targets for cyber criminals seeking to gain financial benefits.
+- Economic factors: Countries with a high GDP and high economic activity may be more attractive targets for cyber criminals seeking to gain financial benefits.
 
-Cybersecurity awareness: Countries with lower levels of cybersecurity awareness and investment may be more vulnerable to cyber attacks.
+- Cybersecurity awareness: Countries with lower levels of cybersecurity awareness and investment may be more vulnerable to cyber attacks.
 
-Geopolitical factors: Some countries may be targeted more frequently due to their geopolitical position, such as being a major ally or adversary of a particular nation or group.
+- Geopolitical factors: Some countries may be targeted more frequently due to their geopolitical position, such as being a major ally or adversary of a particular nation or group.
+
+![Top 5 countries that had the cyber attacks](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top5counties.jpeg)
 
 It is important to note that the reasons for a higher number of cyber attacks are complex and multifaceted, and can vary depending on many different factors.
 
@@ -53,4 +53,4 @@ It is important to note that the reasons for a higher number of cyber attacks ar
 
 ![Top10Industries](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10industries.jpeg)
 
-![TopValue](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/topvalue.jpeg)
+
