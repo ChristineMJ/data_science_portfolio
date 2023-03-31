@@ -24,7 +24,8 @@ Suggestions
 # [Project 3. Cyber Attack Analysis](https://github.com/ChristineMJ/world_cyber_attack_analysis.git)
 Purpose of this Anaylsis: 
 Analyzing cyber attacks worldwide is crucial for improving cybersecurity awareness, developing effective security measures, improving incident response, prosecuting cyber criminals, and promoting global cooperation to protect against cyber threats.
-Cyber incident analysis refers to the carefully orchestrated process of identifying what happened, why and how it happened and what can be done to prevent it from happening again. From a cyber incident analysis report, both the goal of the cyber-attack and the extent of damage it has caused can be determined.
+
+![10 Actors](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10actor.jpeg)
 
 There can be several reasons why these countries had a higher number of cyber attacks:
 
@@ -39,3 +40,17 @@ Cybersecurity awareness: Countries with lower levels of cybersecurity awareness 
 Geopolitical factors: Some countries may be targeted more frequently due to their geopolitical position, such as being a major ally or adversary of a particular nation or group.
 
 It is important to note that the reasons for a higher number of cyber attacks are complex and multifaceted, and can vary depending on many different factors.
+
+![10 Actors](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10actor.jpeg)
+
+
+
+![World_cyber_attack](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/motives.jpeg)
+
+![TimeTrend ](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/timetrend.jpeg)
+
+![Top10Actors](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10actor.jpeg)
+
+![Top10Industries](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10industries.jpeg)
+
+![TopValue](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/topvalue.jpeg)
