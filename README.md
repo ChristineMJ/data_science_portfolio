@@ -19,6 +19,23 @@ Suggestions
 - The analytics shows that the members rides bikes during the weedays for shorter distance than the casual riders. If the fee for the one off casual riders increases and additional charges on the longer distance or longer ride lenths is reduced for the members, it will encourage the casual riders to join the membership. 
 - The casual riders rodes from the Friday till Monday. They company can advertise the benefit of joining bike membership over the weekend. 
 
-#[Project 2. Share comparison dashboard in Python Streamlit](https://github.com/ChristineMJ/share_comparison_dashboard.git) 
+# [Project 2. Share comparison dashboard in Python Streamlit](https://github.com/ChristineMJ/share_comparison_dashboard.git) 
 
-#[Project 3. Cyber Attack Analysis](https://github.com/ChristineMJ/world_cyber_attack_analysis.git)
+# [Project 3. Cyber Attack Analysis](https://github.com/ChristineMJ/world_cyber_attack_analysis.git)
+Purpose of this Anaylsis: 
+Analyzing cyber attacks worldwide is crucial for improving cybersecurity awareness, developing effective security measures, improving incident response, prosecuting cyber criminals, and promoting global cooperation to protect against cyber threats.
+Cyber incident analysis refers to the carefully orchestrated process of identifying what happened, why and how it happened and what can be done to prevent it from happening again. From a cyber incident analysis report, both the goal of the cyber-attack and the extent of damage it has caused can be determined.
+
+There can be several reasons why these countries had a higher number of cyber attacks:
+
+Advanced technology: Countries that have more advanced technology may be more vulnerable to cyber attacks. This is because more advanced technology usually means more interconnected systems and more potential vulnerabilities.
+
+Political instability: Countries with political instability or conflicts may be more prone to cyber attacks, especially if the attackers have political motives.
+
+Economic factors: Countries with a high GDP and high economic activity may be more attractive targets for cyber criminals seeking to gain financial benefits.
+
+Cybersecurity awareness: Countries with lower levels of cybersecurity awareness and investment may be more vulnerable to cyber attacks.
+
+Geopolitical factors: Some countries may be targeted more frequently due to their geopolitical position, such as being a major ally or adversary of a particular nation or group.
+
+It is important to note that the reasons for a higher number of cyber attacks are complex and multifaceted, and can vary depending on many different factors.
