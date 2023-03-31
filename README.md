@@ -43,14 +43,20 @@ It is important to note that the reasons for a higher number of cyber attacks ar
 
 ![10 Actors](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10actor.jpeg)
 
-
-
-![World_cyber_attack](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/motives.jpeg)
+From this basebase, the most of cyber actors' location was undedetermined. However, the actors locations were in Russia, North Korea and Ukraine, Iran and China, Bengladesh and Cuba.   
 
 ![TimeTrend ](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/timetrend.jpeg)
+The data indicates a consistent upward trend in the frequency and severity of cyber attacks over time.
 
-![Top10Actors](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10actor.jpeg)
+There are several actions that organizations and individuals can take to protect themselves from cyber attacks:
 
-![Top10Industries](https://github.com/ChristineMJ/world_cyber_attack_analysis/blob/main/images/top10industries.jpeg)
+- Both Indiviuals and organization keep software and systems up to date: This includes regularly installing updates and patches to fix security vulnerabilities in software and systems.
+- Use strong passwords and multi-factor authentication: Strong passwords that are difficult to guess can help prevent unauthorized access to systems and accounts. Multi-factor authentication adds an extra layer of security by requiring more than one form of identification to access an account.
+- Train employees and users: Educating employees and users about cyber threats and how to recognize them can help prevent social engineering attacks, such as phishing.
+- Use anti-malware and anti-virus software: These tools can detect and prevent malware and other malicious software from infecting systems.
+- Implement network segmentation: Network segmentation involves dividing a network into smaller sub-networks to limit the spread of an attack in case one segment is compromised.
+- Backup critical data: Regularly backing up important data can help ensure that it can be recovered in case of a cyber attack or other disaster.
+- Develop an incident response plan: Having a plan in place for responding to cyber attacks can help minimize the impact and facilitate recovery.
 
+Overall, taking a proactive approach to cybersecurity and implementing a combination of these actions can help organizations and individuals better protect themselves from cyber attacks.
 
